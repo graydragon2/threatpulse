@@ -1,6 +1,6 @@
 // pages/index.tsx
 import Head from 'next/head'
-import { ThreatDashboard } from '@/components/ThreatDashboard'
+import ThreatDashboard from '@/components/ThreatDashboard'
 
 export default function Home() {
   return (
